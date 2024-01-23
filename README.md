@@ -39,6 +39,7 @@ Aprendendo
 [![My Skills](https://skillicons.dev/icons?i=go)](https://skillicons.dev)
 
 Quero aprender
+
 [![My Skills](https://skillicons.dev/icons?i=nestjs,django,ruby)](https://skillicons.dev)
 
 ### Database
