@@ -16,21 +16,26 @@ Sou um desenvolvedor FullStack Jr. trabalho na área de tecnologia há mais de 4
 ### Front-End
 
 Experiencia
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,styledcomponents,js,react)](https://skillicons.dev)
 
 Aprendendo
+
 [![My Skills](https://skillicons.dev/icons?i=tailwind,typescript)](https://skillicons.dev)
 
 Quero aprender
+
 [![My Skills](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
 
 
 ### Back-End
 
 Experiencia
+
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,python,flask)](https://skillicons.dev)
 
 Aprendendo
+
 [![My Skills](https://skillicons.dev/icons?i=go)](https://skillicons.dev)
 
 Quero aprender
@@ -39,24 +44,35 @@ Quero aprender
 ### Database
 
 Experiencia
+
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
 
 Aprendendo
+
 [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
 
 Quero aprender
+
 [![My Skills](https://skillicons.dev/icons?i=redis)](https://skillicons.dev)
 
 ### Outras Tecnologias/Ferramentas
 
 Experiencia
+
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 Aprendendo
+
 [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 
 Quero aprender
+
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,jenkins,kubernetes)](https://skillicons.dev)
+
+<br/>
+<br/>
+<br/>
+<br/>
 
 <div>
 <a href="https://github.com/kenaioz">
