@@ -3,7 +3,7 @@
 <div>
 <a href="https://github.com/kenaioz">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenaioz&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=kenaioz&theme=dracula&show_icons=true&hide=commits"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=kenaioz&theme=dracula&show_icons=true&hide=stars,prs,issues,contribs"/>
 </div>
 
 <!--
