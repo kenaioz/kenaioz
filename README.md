@@ -10,68 +10,6 @@ Sou um desenvolvedor FullStack Jr. trabalho na área de tecnologia há mais de 4
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://main--sensational-vacherin-961c95.netlify.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silviocesarjr/)
 
-
-
-## 🛠 Habilidades
-### Front-End
-
-Experiencia
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,styledcomponents,js,react)](https://skillicons.dev)
-
-Aprendendo
-
-[![My Skills](https://skillicons.dev/icons?i=tailwind,typescript)](https://skillicons.dev)
-
-Quero aprender
-
-[![My Skills](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
-
-
-### Back-End
-
-Experiencia
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,python,flask)](https://skillicons.dev)
-
-Aprendendo
-
-[![My Skills](https://skillicons.dev/icons?i=go)](https://skillicons.dev)
-
-Quero aprender
-
-[![My Skills](https://skillicons.dev/icons?i=nestjs,django,ruby)](https://skillicons.dev)
-
-### Database
-
-Experiencia
-
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
-
-Aprendendo
-
-[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
-
-Quero aprender
-
-[![My Skills](https://skillicons.dev/icons?i=redis)](https://skillicons.dev)
-
-### Outras Tecnologias/Ferramentas
-
-Experiencia
-
-[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
-
-Aprendendo
-
-[![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
-
-Quero aprender
-
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,jenkins,kubernetes)](https://skillicons.dev)
-
-<br/>
-<br/>
 <br/>
 <br/>
 
