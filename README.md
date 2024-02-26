@@ -10,9 +10,8 @@ Sou um desenvolvedor FullStack Jr. trabalho na área de tecnologia há mais de 4
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://main--sensational-vacherin-961c95.netlify.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silviocesarjr/)
 
-<br/>
-<br/>
 
+## 📈 GitHub Stats
 <div>
 <a href="https://github.com/kenaioz">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenaioz&layout=compact&langs_count=7&theme=dracula"/>
