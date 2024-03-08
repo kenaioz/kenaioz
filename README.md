@@ -3,7 +3,7 @@
 
 
 ## 🚀 Sobre mim
-Sou um desenvolvedor FullStack Jr. trabalho na área de tecnologia há mais de 4 anos, 2 anos como desenvolvedor. Comprometido com resoluções de problemas e ansioso por mais desafios e crescimento profissional.
+Sou um desenvolvedor FullStack Jr. trabalho na área de tecnologia há mais de 4 anos. Comprometido com resoluções de problemas e ansioso por mais desafios e crescimento profissional.
 
 
 ## 🔗 Links
